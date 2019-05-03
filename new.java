@@ -1,4 +1,7 @@
 112
 qwe
 qwe 
-gedit
+geditbh
+class
+{
+}
